@@ -14,10 +14,10 @@ CakePHP `v2.10`
   
 # UI
 
-## Create  
+## Create (`{website}/topics/add`)  
 <img src="assets/img/create.png" width="30%">   
 
-## Read  
+## Read (`{website}/topics/index`)  
 <img src="assets/img/read.png" width="30%">   
 
 ## Update  
