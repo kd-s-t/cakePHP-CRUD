@@ -26,5 +26,8 @@ CakePHP `v2.10`
 ## Delete  
 <img src="assets/img/delete.png" width="30%"> 
 
+Database   
+https://github.com/kenntinio/phpCakePHP-CRUD/cake_topics.sql  
+  
 CakePHP 2.5.4 Basics Tutorial for Beginners    
 https://www.youtube.com/watch?v=2mvpLqJVW7c&list=PLy6f6YeaisJLnQpKpeeJX_ooJg_IH1Oib&index=1  
