@@ -6,7 +6,9 @@ CakePHP `v2.10`
 # Operations  
 
 * `Create` <i style="color:gray">a topic</i>  
+	** Go to this page {website}/topics/add    
 * `Read` <i style="color:gray">(display all topics && display a topic)</i>  
+	** Go to this page {website}/topics/index    
 * `Update` <i style="color:gray">a topic</i>    
 * `Delete` <i style="color:gray">a topic</i>    
   
